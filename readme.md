@@ -1,6 +1,8 @@
 # DEVSVR - Docker Stack Development NGINX, PHP, MYSQL dan PHPMYADMIN
 
-Packet Docker Stack Development server standart yang berisi (NGINX, PHP, MYSQL dan PHPMYADMIN), dapat digunakan sebagai alternative yang biasa mengunakan XAMPP / WAMPP sebagai paket server development di local komputer
+Packet Docker Stack Development server standart yang berisi (NGINX, PHP, MYSQL dan PHPMYADMIN), dapat digunakan sebagai alternative yang biasa mengunakan XAMPP / WAMPP sebagai paket server development di local komputer.
+
+V1: 4 Agustus 2024
 
 ## Installation
 Untuk intallasi pada komputer local pastikan sudah menginstall GIT untuk dapat melakukan clone repository ini, pastikan juga sudah menginstall Docker di local komputer. Selanjutnya lakukan beberapa step berikut:
