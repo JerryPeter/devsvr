@@ -20,7 +20,7 @@ services:
      - ./src/custom.ini:/usr/local/etc/php/conf.d/custom.ini
   mysql:
    platform: linux/x86_64 
-   image: mysql:8
+   image: mysql:8.1.0
    ports:
      - '3306:3306'   
    env_file:
